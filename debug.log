@@ -1,0 +1,6 @@
+[1019/095707.434:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[1019/111730.037:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Felipe\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\8f3b0bfb-5301-4d99-bd61-984d839dea30: O sistema não pode encontrar o caminho especificado. (0x3)
+[1019/111738.366:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Felipe\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\91d6fd26-fb26-407c-a305-dae955252803: O sistema não pode encontrar o caminho especificado. (0x3)
+[1019/153953.658:ERROR:process_reader_win.cc(127)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[1019/153953.721:ERROR:exception_snapshot_win.cc(100)] thread ID 28580 not found in process
+[1019/153953.908:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Felipe\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\ea4dfe18-7170-4184-a2a2-faedd43030e0: O sistema não pode encontrar o caminho especificado. (0x3)
